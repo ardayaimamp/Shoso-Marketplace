@@ -1,0 +1,22 @@
+{
+  "name": "dashboard-shoso-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardayaimamp/Shoso-Marketplace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardayaimamp/Shoso-Marketplace/issues"
+  },
+  "homepage": "https://github.com/ardayaimamp/Shoso-Marketplace#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
